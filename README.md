@@ -21,13 +21,13 @@ List the primary contributions of each author. It is recommended to update this 
 
 ### [Author 2 - replace this with their name]
 
-* Author 1 contributions
+* Author 2 contributions
 * as a bulleted list
 * each line starts with an asterisk and a space
 
 ### [Author 3 - replace this with their name]
 
-* Author 1 contributions
+* Author 3 contributions
 * as a bulleted list
 * each line starts with an asterisk and a space
 
